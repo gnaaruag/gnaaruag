@@ -8,7 +8,7 @@
   ### Languages I am good with
 
   [![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://github.com/gnaaruag)
-  [![test](https://img.shields.io/badge/python)](https://github.com/gnaaruag)
+  [![test](https://img.shields.io/badge/-Python)](https://github.com/gnaaruag)
 
 
 
