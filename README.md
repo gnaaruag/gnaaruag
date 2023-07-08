@@ -2,7 +2,7 @@
 
 - 😄 Pronouns: He/Him
 - 🌱 I’m currently learning MERN Stack development
-- 🔭 I’m currently working on CRUD applications
+- 🔭 I’m currently working on a CRUD application
 
 ### Languages I am good with
 ---
