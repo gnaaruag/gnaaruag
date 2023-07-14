@@ -2,7 +2,6 @@
 
 - 😄 Pronouns: He/Him
 - 🌱 I’m currently learning MERN Stack development
-- 🔭 I’m currently working on a React.JS project
 
 ### Languages I am good with
 ---
