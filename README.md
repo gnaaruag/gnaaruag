@@ -14,10 +14,11 @@
 ---
 [![HTML 5](https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=html5)](https://github.com/gnaaruag)
 [![CSS 3](https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=css3)](https://github.com/gnaaruag)
-[![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=React)](https://github.com/gnaaruag)
-[![React](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=Express)](https://github.com/gnaaruag)
-[![Node.js](https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=node.js)](https://github.com/gnaaruag)
 [![MongoDB](https://img.shields.io/badge/MongoDB-black?style=for-the-badge&logo=mongodb)](https://github.com/gnaaruag)
+[![Express](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=Express)](https://github.com/gnaaruag)
+[![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=React)](https://github.com/gnaaruag)
+[![Node.js](https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=node.js)](https://github.com/gnaaruag)
+
 
 ### Socials
 ---
