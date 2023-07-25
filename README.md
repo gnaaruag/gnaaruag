@@ -1,7 +1,7 @@
 ### Hi there I'm Gaurang!! 👋
 
 - 😄 Pronouns: He/Him
-- 🌱 I’m currently learning MERN Stack development
+- 🌱 I’m currently working with MERN Stack development
 
 ### Languages I am good with
 ---
