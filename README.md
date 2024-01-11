@@ -23,6 +23,7 @@
 ### Socials
 ---
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/gaurangratnaparkhi/)
+[![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/gnaaruag)
 [![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-black?style=for-the-badge&logo=stack-overflow
 )](https://stackoverflow.com/users/13927232/gnaaruag)
 [![Leetcode](https://img.shields.io/badge/-LeetCode-black?style=for-the-badge&logo=LeetCode&logoColor=FFA116
