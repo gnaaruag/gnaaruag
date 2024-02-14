@@ -2,6 +2,7 @@
 
 - 😄 Pronouns: He/Him
 - 🌱 I’m currently working with MERN Stack development
+- Visit my [Bento Page](https://bento.me/gnaaruag) to learn more
 
 ### Languages I am good with
 ---
