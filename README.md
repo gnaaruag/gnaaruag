@@ -5,7 +5,7 @@
 - 👯 I'm always on the lookout to collaborate on Full stack projects of any sort
 - 🐧 I'm looking to contribute towards exciting open source projects 
 - 🎨 Visit my [portfolio](https://gnaaruag.netlify.app) to learn more
-- 📧 Shoot me an email at [gnaruag.work@gmail.com](mailto:gnaruag.work@gmail.com
+- 📧 Shoot me an email at [gnaruag.work@gmail.com](mailto:gnaruag.work@gmail.com)
 
 ## Here's how you can reach me
 <div align="center">
