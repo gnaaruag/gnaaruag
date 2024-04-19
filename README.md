@@ -40,17 +40,5 @@
 </div>
 
 
-<!--
-<div align="center">
-  <a href="https://github.com/gnaaryag">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gnaaruag&theme=radical" />
-</a>
-</div>
--->
 
-<!--
-**gnaaruag/gnaaruag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-[![HTML 5](https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/gnaaruag)
 
-Here are some ideas to get you started:
---!>
