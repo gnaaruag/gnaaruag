@@ -1,47 +1,49 @@
 ### Hi there I'm Gaurang!! 👋
 
 - 😄 Pronouns: He/Him
-- 🌱 I’m currently working with MERN Stack development
-- Visit my [Linktree](https://linktr.ee/gnaaruag) to learn more
+- 🌱 I’m currently learning Machine Learning and Artificial Intelligence
+- 👯 I'm always on the lookout to collaborate on Full stack projects of any sort
+- 🐧 I'm looking to contribute towards exciting open source projects 
+- 🎨 Visit my [portfolio](https://gnaaruag.netlify.app) to learn more
+- 📧 Shoot me an email at [gnaruag.work@gmail.com](mailto:gnaruag.work@gmail.com
 
-### Languages I am good with
----
-
-[![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://github.com/gnaaruag)
-[![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/gnaaruag)
-[![Java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk)](https://github.com/gnaaruag)
-
-### Frameworks I use
----
-[![HTML 5](https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=html5)](https://github.com/gnaaruag)
-[![CSS 3](https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=css3)](https://github.com/gnaaruag)
-[![MongoDB](https://img.shields.io/badge/MongoDB-black?style=for-the-badge&logo=mongodb)](https://github.com/gnaaruag)
-[![Express](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=Express)](https://github.com/gnaaruag)
-[![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=React)](https://github.com/gnaaruag)
-[![Node.js](https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=node.js)](https://github.com/gnaaruag)
+## Here's how you can reach me
+<div align="center">
+  <a href="https://linkedin.com/gaurangratnaparkhi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gaurangratnaparkhi" height="30" width="40" /></a>
+<a href="https://twitter.com/gnaaruag" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gnaaruag" height="30" width="40" /></a>
+<a href="https://instagram.com/gnaaruag" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gnaaruag" height="30" width="40" /></a>
+</div>
 
 
-### Socials
----
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/gaurangratnaparkhi/)
-[![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/gnaaruag)
-[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-black?style=for-the-badge&logo=stack-overflow
-)](https://stackoverflow.com/users/13927232/gnaaruag)
-[![Leetcode](https://img.shields.io/badge/-LeetCode-black?style=for-the-badge&logo=LeetCode&logoColor=FFA116
-)](https://leetcode.com/gnaaruag/)
-[![Codechef](https://img.shields.io/badge/Codechef-black.svg?&style=for-the-badge&logo=Codechef&logoColor=white
-)](https://www.codechef.com/users/gnaaruag404)
-[![HackerRank](https://img.shields.io/badge/-Hackerrank-black?style=for-the-badge&logo=HackerRank&logoColor=2EC866
-)](https://hackerrank.com/21951A0549)
+
+### Languages, Tools and Frameworks
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,java,python,mongo,express,react,nodejs,nextjs,postgres,mysql,sequelize,spring,tailwind,git,postman&perline=9" />
+  </a>
+</p>
 
 
 
 ### At a glance
 ---
-[![Commits Badge](https://badges.pufler.dev/commits/monthly/gnaaruag)](#)
-[![Years Badge](https://badges.pufler.dev/years/gnaaruag)](#)
-[![Repos Badge](https://badges.pufler.dev/repos/gnaaruag)](#)
-[![Gists Badge](https://badges.pufler.dev/gists/gnaaruag)](#)
+<div align="center">
+  <picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=gnaaruag&show_icons=true&theme=radical"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=gnaaruag&show_icons=true&theme=radical" />
+</picture>
+
+<!--
+<div align="center">
+  <a href="https://github.com/gnaaryag">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gnaaruag&theme=radical" />
+</a>
+</div>
+-->
+
+</div>
 
 
 
