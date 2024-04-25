@@ -28,13 +28,10 @@
 ### At a glance
 ---
 <div align="center">
-  <picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=gnaaruag&show_icons=true&theme=radical"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=gnaaruag&show_icons=true&theme=radical" />
-</picture>
-
+<a href="https://github.com/gnaaruag">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=gnaaruag&theme=radical" />
+</a>
+</div>
 
 
 </div>
