@@ -7,7 +7,7 @@
 - 🎨 Visit my [portfolio](https://gnaaruag.netlify.app) to learn more
 - 📧 Shoot me an email at [gnaruag.work@gmail.com](mailto:gnaruag.work@gmail.com)
 
-## Here's how you can reach me
+### Here's how you can reach me
 <div align="center">
   <a href="https://linkedin.com/gaurangratnaparkhi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gaurangratnaparkhi" height="30" width="40" /></a>
 <a href="https://twitter.com/gnaaruag" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gnaaruag" height="30" width="40" /></a>
