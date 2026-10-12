@@ -4,7 +4,7 @@
 - 👯 I'm always on the lookout to collaborate on projects of any sort
 - 🐧 I'm looking to contribute towards exciting open source projects 
 - 🎨 Visit my [website and blog](https://gnuraag.com) 
-- 📧 Shoot me an email at [gnaruag.work@gmail.com](mailto:gaurangratnaparkhi@gmail.com)
+- 📧 Shoot me an email at [gaurang40304@gmail.com](mailto:gaurang40304@gmail.com)
 
 ### Here's how you can reach me
 <div align="center">
@@ -38,7 +38,3 @@
 <!--
 **gnaaruag/gnaaruag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 [![HTML 5](https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/gnaaruag)
-
-
-
-
